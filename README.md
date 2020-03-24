@@ -1,5 +1,5 @@
 # PancAPI 🥞
-A simple json file with pancake data ☺️
+A simple json file with pancake data ☺️ Hosted @ https://www.thewissen.io/pancakes.json
 
 ## Currently serving
 - 🇩🇰 Æbleskiver
