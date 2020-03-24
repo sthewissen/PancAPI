@@ -1,0 +1,92 @@
+[
+	{
+		"name":"Crêpes",
+		"origin":"FR",
+		"description":"French crêpes are well known and are officially made in a crêpe pan to form a thin pancake. Made from flour, milk and eggs, and can be served sweet or savoury. The key to getting it right? Keep your French crêpes super thin for a light-as-air treat.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crepes.png"
+	},
+	{
+		"name":"American-Style",
+		"origin":"US",
+		"description":"The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
+	},
+	{
+		"name":"Scotch",
+		"origin":"GB",
+		"description":"Similar to American pancakes, Scotch pancakes (also known as drop scones) are made with flour, eggs, sugar, milk, salt and cream of tartar. They are made much smaller than a typical pancake and are often served with jam or cream as a snack.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/scotch.png"
+	},
+	{
+		"name":"Serabi",
+		"origin":"ID",
+		"description":"Made with rice flour and coconut milk and distinctively only cooked on one side, most Serabi are eaten sweet, but can be paired with cheese and meat for a savoury snack. This different type of pancake is enjoyed throughout Southeast Asia, and some recipes add pandan leaf juice to form a green hue.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/serabi.png"
+	},
+	{
+		"name":"Blinis",
+		"origin":"RU",
+		"description":"Russian blinis, or buckwheat pancakes, are yeasted pancakes traditionally made from buckwheat flour and served savoury with sour cream or caviar. Think of them as the party type of pancake.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/blinis.png"
+	},
+	{
+		"name":"Msemen",
+		"origin":"MA",
+		"description":"Taking a departure from the traditional types of pancake, Moroccan Msemens are square-shaped variations made from wheat flour and semolina. They are traditionally served savoury with meats and meals.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/msemen.png"
+	},
+	{
+		"name":"Æbleskiver",
+		"origin":"DK",
+		"description":"Sticking with pancakes that don’t conform to the norm, Danish Aebleskiver are served hot, fluffy and spherical! Made in a special frying pan with deep holes for each pancake, they are then consumed like doughnuts – dipped in jam and sprinkled in sugar.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/aebleskiver.png"
+	},
+	{
+		"name":"Boxty",
+		"origin":"IE",
+		"description":"Made with egg, flour, milk, butter and potato, Irish Boxtys (or potato pancakes) are a kind of pancake-hash brown hybrid. This type of pancake is best served as a savoury snack or as part of a delicious meal.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/boxty.png"
+	},
+	{
+		"name":"Jeon",
+		"origin":"KR",
+		"description":"A savoury take on the pancake, the Jeon is made from eggs, wheat flour, rice and green onions. Differing from many pancakes that are then topped or used as a wrap, the Korean Jeon combines fish, meat or vegetables with the mixture so that the ingredients are cooked within, making it a meal in itself.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/jeon.png"
+	},
+	{
+		"name":"Crespelle",
+		"origin":"IT",
+		"description":"The Italian take is a different type of pancake that is similar to that of the French crêpe. Made from eggs, milk and chestnut flour, it forms a thin pancake best served savoury with meat or cheese.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crespelle.png"
+	},
+	{
+		"name":"Pikelet",
+		"origin":"AU",
+		"description":"Made from milk, flour, eggs and a touch of icing sugar, the Australian pikelet is a sort of blini-crumpet crossover. Pikelets are made small like a Scotch pancake and served with jam, cream or butter.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pikelet.png"
+	},
+	{
+		"name":"Dutch Baby Pancake",
+		"origin":"US",
+		"description":"Don’t be fooled by the name. The pinnacle of giant pancakes, the Dutch baby pancake more closely resembles a Yorkshire pudding. Made with eggs, flour, sugar, milk and seasoned with cinnamon or vanilla, they are mainly served sweet. The biggest difference to other types of pancakes around the world – they are actually baked in a cast iron pan, which helps to form their shape.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baby.png"
+	},
+	{
+		"name":"Raggmunk",
+		"origin":"SE",
+		"description":"Similar to the Boxty, Swedish Raggmunks are made with milk, eggs, wheat flour and grated potato. Once fried, they are often served up savoury with meat or as part of a meal.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/raggmunk.png"
+	},
+	{
+		"name":"Poffertjes",
+		"origin":"NL",
+		"description":"Made with yeast and buckwheat, Dutch Poffertjes have a light, spongy texture. Served sweet with cream and a dusting of sugar, they closely resemble their Danish counterpart in that they have to be cooked in a special pan to achieve their unique shape.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/poffertjes.png"
+	},
+	{
+		"name":"Pannukakka",
+		"origin":"FI",
+		"description":"A sweet, baked variation made of eggs, milk, sugar, flour and vanilla, the Finnish Pannakakku forms a thick pancake that is crisp on the top and soft in the middle. It’s best served sweet with cream, jam or fruit.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pannukakka.png"
+	}
+]
