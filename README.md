@@ -1,4 +1,4 @@
-# PancAPI
+# PancAPI 🥞
 A simple json file with pancake data ☺️
 
 ## Currently serving
