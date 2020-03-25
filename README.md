@@ -12,7 +12,8 @@ Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted
 - 🇺🇸 Dutch Baby Pancake
 - 🇰🇷 Jeon
 - 🇲🇦 Msemen
--  🇫🇮 Pannukakka
+- 🇦🇹 Palatschinken
+- 🇫🇮 Pannukakka
 - 🇦🇺 Pikelet
 - 🇳🇱 Poffertjes
 - 🇸🇪 Raggmunk
