@@ -88,5 +88,11 @@
 		"origin":"FI",
 		"description":"A sweet, baked variation made of eggs, milk, sugar, flour and vanilla, the Finnish Pannakakku forms a thick pancake that is crisp on the top and soft in the middle. It’s best served sweet with cream, jam or fruit.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pannukakka.png"
+	},
+	{
+		"name": "Palatschinken",
+		"origin": "AT",
+		"description": "Central European palatschinken are thin pancakes similar to the French crêpe. The main difference between the French and Central European version of the dish is that the mixture for palatschinken can be used straight away unlike that of crepes which is suggested to be left at rest for several hours. Palatschinken can be served sweet and savoury.",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palatschinken.png"
 	}
 ]
