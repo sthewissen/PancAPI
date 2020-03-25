@@ -2,7 +2,7 @@
 	{
 		"name":"Crêpes",
 		"origin":"FR",
-		"description":"French crêpes are well known and are officially made in a crêpe pan to form a thin pancake. Made from flour, milk and eggs, and can be served sweet or savoury. The key to getting it right? Keep your French crêpes super thin for a light-as-air treat.",
+		"description":"French Crêpes are well known and are officially made in a crêpe pan to form a thin pancake. Made from flour, milk and eggs, and can be served sweet or savoury. The key to getting it right? Keep your French Crêpes super thin for a light-as-air treat.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crepes.png"
 	},
 	{
@@ -38,7 +38,7 @@
 	{
 		"name":"Æbleskiver",
 		"origin":"DK",
-		"description":"Sticking with pancakes that don’t conform to the norm, Danish Aebleskiver are served hot, fluffy and spherical! Made in a special frying pan with deep holes for each pancake, they are then consumed like doughnuts – dipped in jam and sprinkled in sugar.",
+		"description":"Sticking with pancakes that don’t conform to the norm, Danish Æbleskiver are served hot, fluffy and spherical! Made in a special frying pan with deep holes for each pancake, they are then consumed like doughnuts – dipped in jam and sprinkled in sugar.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/aebleskiver.png"
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name":"Pikelet",
 		"origin":"AU",
-		"description":"Made from milk, flour, eggs and a touch of icing sugar, the Australian pikelet is a sort of blini-crumpet crossover. Pikelets are made small like a Scotch pancake and served with jam, cream or butter.",
+		"description":"Made from milk, flour, eggs and a touch of icing sugar, the Australian Pikelet is a sort of blini-crumpet crossover. Pikelets are made small like a Scotch pancake and served with jam, cream or butter.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pikelet.png"
 	},
 	{
 		"name":"Dutch Baby Pancake",
 		"origin":"US",
-		"description":"Don’t be fooled by the name. The pinnacle of giant pancakes, the Dutch baby pancake more closely resembles a Yorkshire pudding. Made with eggs, flour, sugar, milk and seasoned with cinnamon or vanilla, they are mainly served sweet. The biggest difference to other types of pancakes around the world – they are actually baked in a cast iron pan, which helps to form their shape.",
+		"description":"Don’t be fooled by the name. The pinnacle of giant pancakes, the Dutch Baby Pancake more closely resembles a Yorkshire pudding. Made with eggs, flour, sugar, milk and seasoned with cinnamon or vanilla, they are mainly served sweet. The biggest difference to other types of pancakes around the world – they are actually baked in a cast iron pan, which helps to form their shape.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baby.png"
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "Palatschinken",
 		"origin": "AT",
-		"description": "Central European palatschinken are thin pancakes similar to the French crêpe. The main difference between the French and Central European version of the dish is that the mixture for palatschinken can be used straight away unlike that of crepes which is suggested to be left at rest for several hours. Palatschinken can be served sweet and savoury.",
+		"description": "Central European Palatschinken are thin pancakes similar to the French crêpe. The main difference between the French and Central European version of the dish is that the mixture for Palatschinken can be used straight away unlike that of crepes which is suggested to be left at rest for several hours. Palatschinken can be served sweet and savoury.",
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palatschinken.png"
 	}
 ]
