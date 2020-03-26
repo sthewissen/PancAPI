@@ -178,5 +178,11 @@
 		"origin":"MY",
 		"description":"Walk through street vendors in the early morning to get a taste of these lovely peanut-stuffed pancakes. These rice flour pancakes come in thick and thin versions, and are pan fried and then folded over with ground roasted peanuts tucked neatly inside, but other fillings like corn, bananas, sweetened dried coconut, and sugar are all available. It’s easy to pick out this dish from the rest, because they’re usually served standing up!",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/apimbalik.png"
+	},
+	{
+		"name":"Pönnukaka",
+		"origin":"IS",
+		"description":"Crepe-like. Cooked in a special Icelandic pancake pan.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/ponnukaka.png"
 	}
 ]

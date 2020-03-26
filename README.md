@@ -34,6 +34,7 @@ Hosted @ https://www.thewissen.io/pancakes.json
 - 🇫🇮 Pannukakka
 - 🇦🇺 Pikelet
 - 🇳🇱 Poffertjes
+- 🇮🇸 Pönnukaka
 - 🇸🇪 Raggmunk
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotch
 - 🇮🇩 Serabi
