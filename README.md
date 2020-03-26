@@ -2,6 +2,10 @@
 
 Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted @ https://www.thewissen.io/pancakes.json
 
+## Map
+
+![https://raw.githubusercontent.com/sthewissen/PancAPI/master/map.png](https://raw.githubusercontent.com/sthewissen/PancAPI/master/map.png)
+
 ## Currently serving
 - 🇩🇰 Æbleskiver
 - 🇺🇸 American style
