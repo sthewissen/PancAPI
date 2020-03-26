@@ -102,7 +102,7 @@
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/japanesefluffy.png"
 	},
 	{
-		"name": "Congyoubing",
+		"name": "Cong You Bing",
 		"origin": "CN",
 		"description": "You've probably tried these savory pancakes as an appetizer at your favorite Chinese restaurant. But you might be surprised to learn you can make them at home with just four ingredients (plus water and salt).",
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/congyoubing.png"
@@ -154,5 +154,29 @@
 		"origin":"JP",
 		"description":"This pancake-like recipe called Okonomiyaki translates to \"how you like it.\". It's made with eggs, Chinese yam, and shredded cabbage, but you'll find these savory pancakes topped with a variety of vegetables, proteins, and sauces.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/okonomiyaki.png"
+	},
+	{
+		"name":"Kabalagala",
+		"origin":"UG",
+		"description":"Kabalagala, or kabs, are mini banana pancakes. These sweet little guys call for nothing more than ripe bananas or plantains and tapioca flour.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/kabalagala.png"
+	},
+	{
+		"name":"Tiganites",
+		"origin":"GR",
+		"description":"Thought to be the O.G. of the pancake world, tiganites don’t use milk or eggs. These fluffy medallions are usually served with honey, walnuts, and cinnamon.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/tiganites.png"
+	},
+	{
+		"name":"Injera",
+		"origin":"ET",
+		"description":"This Ethiopian staple is made with teff, a nutritious East African grain. Injera batter, which is fermented before cooking, makes a remarkably spongey pancake.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/injera.png"
+	},
+	{
+		"name":"Apim Balik",
+		"origin":"MY",
+		"description":"Walk through street vendors in the early morning to get a taste of these lovely peanut-stuffed pancakes. These rice flour pancakes come in thick and thin versions, and are pan fried and then folded over with ground roasted peanuts tucked neatly inside, but other fillings like corn, bananas, sweetened dried coconut, and sugar are all available. It’s easy to pick out this dish from the rest, because they’re usually served standing up!",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/apimbalik.png"
 	}
 ]
