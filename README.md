@@ -5,13 +5,21 @@ Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted
 ## Currently serving
 - 🇩🇰 Æbleskiver
 - 🇺🇸 American style
+- 🇻🇪 Arepas
+- 🇲🇦 Baghrir
 - 🇷🇺 Blinis
 - 🇮🇪 Boxty
+- 🇨🇳 Congyoubing
 - 🇫🇷 Crêpes
 - 🇮🇹 Crespelle
-- 🇺🇸 Dutch Baby Pancake
+- 🇮🇳 Dosas
+- 🇩🇪 Dutch Baby Pancake
+- 🇮🇹 Farinata
 - 🇰🇷 Jeon
+- 🇨🇳 Jian Bing
+- 🇵🇱 Latkes
 - 🇲🇦 Msemen
+- 🇭🇺 Palacsinta
 - 🇦🇹 Palatschinken
 - 🇫🇮 Pannukakka
 - 🇦🇺 Pikelet
@@ -19,3 +27,4 @@ Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted
 - 🇸🇪 Raggmunk
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotch
 - 🇮🇩 Serabi
+- 🇯🇵 スフレパンケーキ

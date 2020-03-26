@@ -67,7 +67,7 @@
 	},
 	{
 		"name":"Dutch Baby Pancake",
-		"origin":"US",
+		"origin":"GE",
 		"description":"Don’t be fooled by the name. The pinnacle of giant pancakes, the Dutch Baby Pancake more closely resembles a Yorkshire pudding. Made with eggs, flour, sugar, milk and seasoned with cinnamon or vanilla, they are mainly served sweet. The biggest difference to other types of pancakes around the world – they are actually baked in a cast iron pan, which helps to form their shape.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baby.png"
 	},
@@ -94,5 +94,59 @@
 		"origin": "AT",
 		"description": "Central European Palatschinken are thin pancakes similar to the French crêpe. The main difference between the French and Central European version of the dish is that the mixture for Palatschinken can be used straight away unlike that of crepes which is suggested to be left at rest for several hours. Palatschinken can be served sweet and savoury.",
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palatschinken.png"
+	},
+	{
+		"name": "スフレパンケーキ",
+		"origin": "JP",
+		"description": "Order pancakes in Tokyo and you'll probably be greeted with this super fluffy and thick version. Made with buttermilk and meringue, they're almost like a breakfast soufflé.",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/japanesefluffy.png"
+	},
+	{
+		"name": "Congyoubing",
+		"origin": "CN",
+		"description": "You've probably tried these savory pancakes as an appetizer at your favorite Chinese restaurant. But you might be surprised to learn you can make them at home with just four ingredients (plus water and salt).",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/congyoubing.png"
+	},
+	{
+		"name": "Farinata",
+		"origin": "IT",
+		"description": "These Italian chickpea pancakes (also known as cecina) are a typical dish from the Ligurian Coast. It's typically cooked in a wood oven like pizza, but you can easily make it at home in a skillet.",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/farinata.png"
+	},
+	{
+		"name": "Dosas",
+		"origin": "IN",
+		"description": "A staple of most Indian diets, these thin, crispy pancake-esque bites looks a lot like French crepes, but they're entirely different. Dosas are made with rice and black gram and are usually served with stew or chutney.",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/dosas.png"
+	},
+	{
+		"name": "Jian Bing",
+		"origin": "CN",
+		"description": "Similar to pancakes, Jian Bing is a popular street food that you'll find around breakfast time in China. They're thin crepe-like creations that are topped with fried egg, scallion, and spices and folded in half.",
+		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/jianbing.png"
+	},
+	{
+		"name": "Latkes",
+		"origin": "PL",
+		"description":"Also known as Latkes, these fried potato pancakes are a common food in Poland and the rest of Eastern Europe. They're usually accompanied by apple sauce or sour cream for dipping.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/latkes.png"
+	},
+	{
+		"name":"Palacsinta",
+		"origin":"HU",
+		"description":"These crepe-like treats are a popular dish around Central and Eastern Europe where you'll often find them garnished with apricot jam, walnuts, or cottage cheese.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palacsinta.png"
+	},
+	{
+		"name":"Arepas",
+		"origin":"VE",
+		"description":"Made with masa (corn flour), this staple of Venezuelan and South American cooking is similar to pancakes, but it's used in place of sandwich bread and filled with anything from shredded chicken and cheese to refried beans and roast pork.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/arepas.png"
+	},
+	{
+		"name":"Baghrir",
+		"origin":"MO",
+		"description":"Popular in North Africa, these semolina flour pancakes are spongy and delicious. They're only cooked on one side (rather than American pancakes, which are flipped), and as a result they're dotted with tiny air bubbles.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baghrir.png"
 	}
 ]
