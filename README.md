@@ -11,18 +11,21 @@ Hosted @ https://www.thewissen.io/pancakes.json
 ## Currently serving
 - 🇩🇰 Æbleskiver
 - 🇺🇸 American style
+- 🇲🇾 Apim Balik
 - 🇻🇪 Arepas
 - 🇲🇦 Baghrir
 - 🇷🇺 Blinis
 - 🇮🇪 Boxty
-- 🇨🇳 Congyoubing
+- 🇨🇳 Cong You Bing
 - 🇫🇷 Crêpes
 - 🇮🇹 Crespelle
 - 🇮🇳 Dosas
 - 🇩🇪 Dutch Baby Pancake
 - 🇮🇹 Farinata
+- 🇪🇹 Injera
 - 🇰🇷 Jeon
 - 🇨🇳 Jian Bing
+- 🇺🇬 Kabalagala
 - 🇵🇱 Latkes
 - 🇲🇦 Msemen
 - 🇯🇵 Okonomiyaki
@@ -35,3 +38,4 @@ Hosted @ https://www.thewissen.io/pancakes.json
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotch
 - 🇮🇩 Serabi
 - 🇯🇵 Sufurepankēki
+- 🇬🇷 Tiganites
