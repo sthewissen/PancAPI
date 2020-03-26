@@ -96,7 +96,7 @@
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palatschinken.png"
 	},
 	{
-		"name": "スフレパンケーキ",
+		"name": "Sufurepankēki",
 		"origin": "JP",
 		"description": "Order pancakes in Tokyo and you'll probably be greeted with this super fluffy and thick version. Made with buttermilk and meringue, they're almost like a breakfast soufflé.",
 		"imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/japanesefluffy.png"
@@ -148,5 +148,11 @@
 		"origin":"MO",
 		"description":"Popular in North Africa, these semolina flour pancakes are spongy and delicious. They're only cooked on one side (rather than American pancakes, which are flipped), and as a result they're dotted with tiny air bubbles.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baghrir.png"
+	},
+	{
+		"name":"Okonomiyaki",
+		"origin":"JP",
+		"description":"This pancake-like recipe called Okonomiyaki translates to \"how you like it.\". It's made with eggs, Chinese yam, and shredded cabbage, but you'll find these savory pancakes topped with a variety of vegetables, proteins, and sauces.",
+		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/okonomiyaki.png"
 	}
 ]

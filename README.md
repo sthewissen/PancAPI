@@ -19,6 +19,7 @@ Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted
 - 🇨🇳 Jian Bing
 - 🇵🇱 Latkes
 - 🇲🇦 Msemen
+- 🇯🇵 Okonomiyaki
 - 🇭🇺 Palacsinta
 - 🇦🇹 Palatschinken
 - 🇫🇮 Pannukakka
@@ -27,4 +28,4 @@ Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Hosted
 - 🇸🇪 Raggmunk
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotch
 - 🇮🇩 Serabi
-- 🇯🇵 スフレパンケーキ
+- 🇯🇵 Sufurepankēki
