@@ -2,7 +2,7 @@
 
 Pronounced _'Pan-kay-pee-i'_. A simple json file with pancake data ☺️ Use it as sample data for your app when writing your API code! By using [quicktype.io](https://app.quicktype.io) and pasting the raw JSON into quicktype you can generate your C# classes. Ensure that you set the Name to Pancake, set your required namespace and select C# as the language.
 
-Hosted @ https://www.thewissen.io/pancakes.json
+Hosted with ❤️ @ https://www.thewissen.io/pancakes.json
 
 ## Map
 
