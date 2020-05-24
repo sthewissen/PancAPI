@@ -5,12 +5,12 @@
 		"description":"French Crêpes are well known and are officially made in a crêpe pan to form a thin pancake. Made from flour, milk and eggs, and can be served sweet or savoury. The key to getting it right? Keep your French Crêpes super thin for a light-as-air treat.",
 		"imageUrl":"https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crepes.png",
 		"ingredients":[
-			"1 cup all-purpose flour",
-			"2 eggs",
-			"1/2 cup of milk",
-			"1/2 cup water",
-			"1/4 teaspoon salt",
-			"2 tablespoons butter, melted"
+			{"uom":"1 cup", "ingredient":"All-purpose flour"},
+			{"uom":"2", "ingredient":"Eggs"},
+			{"uom":"1/2 cup", "ingredient":"Milk"},
+			{"uom":"1/2", "ingredient":"Water"},
+			{"uom":"1/4 teaspoon", "ingredient":"Salt"},
+			{"uom":"2 tablespoons", "ingredient":"Butter, melted"}
 		],
 		"steps":[
 			"In a large mixing bowl, whisk together the flour and the eggs. Gradually add in the milk and water, stirring to combine. Add the salt and butter; beat until smooth.",
